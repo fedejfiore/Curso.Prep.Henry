@@ -1,0 +1,5 @@
+Variables: las variables son cajas que pueden tener diferentes cosas adentro, asi si cambias las cosas de adentro no es necesario cambiar la caja.
+Strings: es una forma de decirles a las palabras o textos
+Funciones: las funciones son cosas que hace el programa, el para que, es el trabajo que hace
+Declaraciones: el "if" es una forma de indicarle al programa que camino queremos que tome
+Valores booleanos: los valores booleanos son si o no, son cosas que tienen solo dos opciones
