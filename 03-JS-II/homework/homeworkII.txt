@@ -1,0 +1,5 @@
+&& o and, es igual a Y, quiere decir que se tienen que cumplir una condicion Y la otra
+|| or, es igual a O, quiere decir que se tiene que cumplir una condicion O la otra (con una sola alcanza)
+! el signo de exclamacion, es not, y hace lo contrario, !true = false
+For es un bucle, un bucle es algo que se repite hasta que se le diga o se cumpla una condicion que lo frene.
+ 
