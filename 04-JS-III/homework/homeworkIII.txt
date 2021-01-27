@@ -1,0 +1,1 @@
+Arrays: los arrays son una forma de poner en una variables multiples datos, que pueden ser o no del mismo tipo
